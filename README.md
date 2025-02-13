@@ -1,7 +1,7 @@
 # CSVParser
 Parses CSV #2 to remove rows containing codes contained in CSV #1
 
-
+Currently only works on CSV files, which removes formatting and formulas from a xlx or xlxs file.
 Directions:
     1. Place the Parser.py script, as well as the CSV file containing your codes and CSV file you want to edit into the same folder.
     2. Edit the configuration to match the files you want to alter (if you don't have a code editor installed just right click and edit in notepad.)
